@@ -1,2 +1,0 @@
-# TowerOfBabel
-LearnToPay
